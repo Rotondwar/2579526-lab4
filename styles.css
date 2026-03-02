@@ -30,3 +30,22 @@
     box-shadow: beige;
 }
 
+@keyframes spin {
+    0%{ transform: rotate(0deg);}
+    100%{ transform: rotate(360deg);}
+    
+}
+
+.country-card{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: beige;
+}
+
+.border-grid{
+    display: flex; /* also allowed */
+    flex-wrap: wrap;
+    gap: 10px;
+}
