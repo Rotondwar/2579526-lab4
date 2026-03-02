@@ -57,3 +57,7 @@
     border: 1px solid pink;
     border-radius: 5px;
 }
+
+.hidden{
+    display: none;
+}
