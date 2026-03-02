@@ -49,3 +49,11 @@
     flex-wrap: wrap;
     gap: 10px;
 }
+
+.error{
+    color: aquamarine;
+    background-color: antiquewhite;
+    padding: 10px;
+    border: 1px solid pink;
+    border-radius: 5px;
+}
